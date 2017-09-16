@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\bin\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.deps.json
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\bin\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.runtimeconfig.json
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\bin\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.runtimeconfig.dev.json
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\bin\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.dll
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\bin\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.pdb
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\obj\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\obj\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\obj\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\obj\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.AssemblyInfo.cs
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\obj\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.dll
+c:\users\admin\source\repos\lab04-gregory-buildAZoo\lab04-gregory-buildAZoo\obj\Debug\netcoreapp2.0\lab04gregoryBuildAZoo.pdb
